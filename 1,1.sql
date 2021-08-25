@@ -1,0 +1,1 @@
+SELECT COUNT(orders.promocode_id)/COUNT(orders.order_id) FROM orders
